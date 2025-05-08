@@ -4595,19 +4595,19 @@ a {
 }
 
 .flip_button_first{
-  position: absolute;
+
   cursor: pointer;
   right: auto;
-  z-index: 10;
+
   opacity : 0.2;
 }
 
 .flip_button_last{
-  position: absolute;
+
   cursor: pointer;
   left: auto;
   opacity : 0.2;
-  z-index: 10;
+
 }
 
 @-webkit-keyframes handSwipeAnimate{

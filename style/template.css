@@ -418,7 +418,9 @@ textarea{font-family:Calibri;}
 	height:100%;
 	z-index: 1;
 }
-
+.logoBar img{
+	height:87% !important;
+}
 .searchBar{
 	position:absolute;
 	right : 42px;
